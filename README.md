@@ -8,7 +8,7 @@ I usually work on the following stuff:
 If you would like to support my work, I'd be more than grateful if you sponsor me on GitHub.
 For any questions, please feel free to contact me on Discord: hope#9727
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advewave&show_icons=true" alt="advewave" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advewave&show_icons=true&count_private=true" alt="advewave" /></p>
 
 <p align="center">
 <a href="https://twitter.com/advewave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@advewave on twitter" height="30" width="30" /></a>
