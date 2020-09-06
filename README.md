@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hope</h1>
 <h3 align="center">An aspiring developer. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=advewave" alt="hope smith's Profile Views" /> </p>
-You might know me from various discords!
-I usually work on the following stuff: <br>
+<p>You might know me from various discords!
+I usually work on the following stuff: </p>
 
 [Arsentic](https://github.com/Arsentic/) - is a Minecraft server network. I am a Manager there, but help out with JS coding, and hopefully Kotlin as well soon. 
 
