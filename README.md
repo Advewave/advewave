@@ -6,7 +6,7 @@ I usually work on the following stuff: </p>
 
 [Arsentic](https://github.com/Arsentic/) - is a Minecraft server network. I am a Co-Owner there, but help out with JS coding, and hopefully Kotlin as well soon. 
 
-If you would like to support my work, I'd be more than grateful if you sponsor me on GitHub.
+If you would like to support my work, I'd be more than grateful if you donate to me on [PayPal](https://paypal.me/arsentic).
 
 For any questions, please feel free to contact me on Discord: hope#9727
 
