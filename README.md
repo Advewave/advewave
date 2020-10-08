@@ -4,7 +4,7 @@
 <p>You might know me from various discords!
 I usually work on the following stuff: </p>
 
-[Arsentic](https://github.com/Arsentic/) - is a Minecraft server network. I am a Co-Owner there, but help out with JS coding, and hopefully Kotlin as well soon. 
+[Arsentic](https://github.com/Arsentic/) - is a Minecraft server network. I was a Co-Owner there, but also helped out with JS coding.
 
 If you would like to support my work, I'd be more than grateful if you donate to me on [PayPal](https://paypal.me/arsentic).
 
